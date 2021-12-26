@@ -46,11 +46,11 @@ Then the process is auromated using a pipeline. Finally, the pipeline is publish
 
 <img src="screenshots/4.png"/>
 
-4. Swagger doc
+5. Swagger doc
 
 <img src="screenshots/5.png"/>
 
-5. Consume API
+6. Consume API
 
 <img src="screenshots/6.png"/>
 
